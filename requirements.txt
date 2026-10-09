@@ -1,0 +1,7 @@
+# 麦麦权益管家 — 依赖说明
+#
+# 本项目核心（src/mcd_mcp_client.py）仅使用 Python 标准库（urllib / json / os / time），
+# 无需任何第三方依赖即可运行。保留本文件以备后续扩展（如改用 requests / httpx）。
+#
+# 如需使用更友好的 HTTP 客户端，可取消下一行注释：
+# requests>=2.31

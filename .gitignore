@@ -1,0 +1,26 @@
+# 麦麦权益管家 — Git 忽略规则
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# 环境与凭证（防止误提交真实 Token / 密钥）
+.env
+.env.*
+*.local.json
+
+# 编辑器 / 系统
+.idea/
+.vscode/
+.DS_Store
+
+# 本地临时产物
+_tmp_*
+*.log
