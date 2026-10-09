@@ -2,7 +2,7 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow) ![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue) ![Powered by MCP](https://img.shields.io/badge/Powered%20by-MCP-blueviolet) ![Zero Dependencies](https://img.shields.io/badge/Dependencies-0-success) ![McD Dev Contest 2026](https://img.shields.io/badge/McD%20Dev%20Contest-2026%20Entry-red)
 
-English | [简体中文](./README.md)
+[English](./README_EN.md) | 简体中文
 
 > 一个基于**麦当劳官方 MCP 能力**（`mcd-mcp-server`）的 WorkBuddy Skill / 开源工具，帮你把散落在各处的麦当劳权益一次性盘活。
 
@@ -32,6 +32,20 @@ English | [简体中文](./README.md)
 
 ### 3. 活动 / 抽奖日历聚合 📅（蓝海）
 聚合当月营销活动、积分抽奖（如麦金喜积分霸王餐）、麦麦省可领券，告诉你**本周哪天有啥优惠 / 抽奖，一键参与**。
+
+---
+
+## 🌟 零安装：用 WorkBuddy 一键接入（推荐小白）
+
+不想装 Python、配环境变量？**用 WorkBuddy 零安装直接玩**：
+
+1. 打开 WorkBuddy → 左侧「连接器」页，找到 **mcd-mcp**（麦当劳官方 MCP）；
+2. 点「信任」启用，按提示填你的麦当劳 MCP Token（申请：https://open.mcd.cn/mcp）；
+3. 把本仓库作为 Skill 接入（见 [`SKILL.md`](./SKILL.md)），或直接对我说：
+   > "用麦麦权益管家帮我挖一下漏领的满意度奖券"
+
+命令行、Token 管理、官方工具调用全部自动跑，**无需任何代码基础**。
+想自己改代码 / 本地跑，见 [`docs/小白安装指南.md`](./docs/小白安装指南.md) 与下方「快速开始」。
 
 ---
 
