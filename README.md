@@ -1,5 +1,9 @@
 # 麦麦权益管家 · McDonald's Benefits Butler
 
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow) ![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue) ![Powered by MCP](https://img.shields.io/badge/Powered%20by-MCP-blueviolet) ![Zero Dependencies](https://img.shields.io/badge/Dependencies-0-success) ![McD Dev Contest 2026](https://img.shields.io/badge/McD%20Dev%20Contest-2026%20Entry-red)
+
+English | [简体中文](./README.md)
+
 > 一个基于**麦当劳官方 MCP 能力**（`mcd-mcp-server`）的 WorkBuddy Skill / 开源工具，帮你把散落在各处的麦当劳权益一次性盘活。
 
 ---
