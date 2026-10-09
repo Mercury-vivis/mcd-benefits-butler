@@ -50,7 +50,7 @@ python src/main.py activity    # 活动 / 抽奖日历聚合
 
 ---
 
-## 📸 演示截图（占位，待补）
+## 📸 演示截图（真实运行输出）
 - ![挖宝结果](docs/dig-demo.png)
 - ![积分导购](docs/mall-demo.png)
 - ![活动日历](docs/activity-demo.png)
